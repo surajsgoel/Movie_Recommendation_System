@@ -1,4 +1,4 @@
-# Movie_Recommendation_System
+# Movie Recommendation System
 A movie recommendation system that suggest movies that are similar to the selected movies based on certain keyword's, cast, genres, director etc. The system currently uses content-based recommendation engine in order to predict similar movies.
 
 
